@@ -254,3 +254,11 @@ Screenshots showing the website at desktop, tablet, and mobile sizes are to be c
 - Added `autocomplete` attributes to all form fields.
 - Added slideshow auto-advance (every 5 seconds) to the homepage script.
 
+References
+[17] Mozilla Developer Network, "CSS: Cascading Style Sheets," MDN Web Docs. [Online]. Available: https://developer.mozilla.org/en-US/docs/Web/CSS. [Accessed: 20 May 2026].
+
+[18] Google Fonts, "Playfair Display and Source Sans 3," Google LLC. [Online]. Available: https://fonts.google.com. [Accessed: 20 May 2026].
+
+[19] CSS-Tricks, "A complete guide to Flexbox," CSS-Tricks.com. [Online]. Available: https://css-tricks.com/snippets/css/a-guide-to-flexbox. [Accessed: 20 May 2026].
+
+[20] CSS-Tricks, "A complete guide to CSS Grid," CSS-Tricks.com. [Online]. Available: https://css-tricks.com/snippets/css/complete-guide-grid. [Accessed: 20 May 2026].
